@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Insane Phonetic Alphabet</title>
+
+    <link href='style.css' rel='stylesheet'>
+    <script src='https://kit.fontawesome.com/57c0dd6a0a.js' crossorigin='anonymous'></script>
+    <link rel='preconnect' href='https://fonts.googleapis.com'>
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+    <link
+        href='https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&display=swap'
+        rel='stylesheet'>
+    <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/tota11y/0.1.6/tota11y.min.js' crossorigin='anonymous'
+        referrerpolicy='no-referrer'></script> -->
+    <script async src='https://cdn.splitbee.io/sb.js'></script>
+</head>
+
+<body class='font-LexendDeca p-8 pt-12 pb-16 md:p-16'>
+    <h1 class='text-gray-900 text-3xl md:text-4xl font-semibold flex justify-center items-center text-center'>
+        Insane Phonetic Alphabet</h1>
+
+    <div class='flex justify-center items-center'>
+        <div>
+            <textarea placeholder='Enter a word or phrase...' id='inputText'
+                class='input w-full focus:bg-gray-200 mt-8 md:mt-14'></textarea>
+            <button id='phoBtn' onclick='phonetitize()' class='input w-full mt-2'>Phonetitize!</button>
+        </div>
+    </div>
+
+    <h2 id='final' class='text-2xl leading-10 flex justify-center items-center text-center mt-8'></h2>
+</body>
+
+</html>
+
+<script src='script.js'></script>

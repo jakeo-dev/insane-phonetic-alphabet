@@ -1,0 +1,611 @@
+AIDS
+Abdominal aortic aneurysm
+Acatalasia
+Acne
+Acquired dyskeratotic leukoplakia
+Acromegaly
+Actinic cheilitis
+Acute biphenotypic leukemia
+Acute cholecystitis
+Acute eosinophilic leukemia
+Acute lymphoblastic leukaemia
+Acute myeloid leukemia
+Acute necrotizing ulcerative gingivitis
+Acute pancreatitis
+Addison's disease
+Adrenocortical carcinoma
+Adult linear IgA disease
+Adult tongue with a strikingly black top
+Alcohol-related liver disease
+Allergic contact cheilitis
+Allergic rhinitis
+Allergies
+Alzheimer's disease
+Anaphylaxis
+Anaplastic large cell lymphoma
+Anemia
+Angina bullosa haemorrhagica
+Angioedema
+Angioimmunoblastic T-cell lymphoma
+Angular cheilitis
+Ankylosing spondylitis
+Anorexia nervosa
+Anxiety
+Anxiety disorders in children
+Appendicitis
+Appendix cancer
+Arthritis
+Asbestosis
+Asthma
+Astrocytoma
+Atopic eczema
+B-cell prolymphocytic leukemia
+Bacterial vaginosis
+Basal cell carcinoma
+Basaloid squamous cell lung carcinoma
+Behçet's disease
+Benign prostate enlargement
+Bile duct cancer
+Binge eating
+Bipolar disorder
+Black hairy tongue
+Bladder cancer
+Blau syndrome
+Blepharochalasis
+Blepharophyma
+Blood poisoning
+Bone cancer
+Bowel cancer
+Bowel incontinence
+Bowel polyps
+Brain stem death
+Brain tumour
+Brainstem glioma
+Breast cancer
+Breast cancer
+Bronchial adenomas/carcinoids
+Bronchiectasis
+Bronchiolitis
+Bronchitis
+Bulimia
+Bullous lupus erythematosus
+Bullous pemphigoid
+Bunion
+Burkitt's lymphoma
+COVID-19
+Cancer
+Candida albicans infection
+Candida parapsilosis infection
+Candidiasis
+Carcinoid syndrome
+Carcinoid tumour
+Catarrh
+Caviar tongue
+Cellulitis
+Cerebellar astrocytoma
+Cerebral astrocytoma
+Cerebral palsy
+Cervical cancer
+Chagas disease
+Cheilitis exfoliativa
+Cheilitis glandularis
+Cheilitis granulomatosa
+Chest infection
+Chest pain
+Chickenpox
+Chilblains
+Childhood linear IgA disease
+Chlamydia
+Cholangiocarcinoma
+Chondrosarcoma
+Chorioretinitis
+Choroiditis
+Chronic fatigue syndrome
+Chronic infantile neurologic cutaneous and articular syndrome
+Chronic kidney disease
+Chronic lymphocytic leukemia
+Chronic myelogenous leukemia
+Chronic myeloid leukaemia
+Chronic obstructive pulmonary disease
+Chronic pain
+Chronic pancreatitis
+Cicatricial pemphigoid
+Cirrhosis
+Clostridium difficile
+Coeliac disease
+Cold sore
+Colon cancer
+Coma
+Common cold
+Congenital heart disease
+Conjunctivitis
+Constipation
+Coronavirus
+Cough
+Crohn's disease
+Croup
+Cushing's disease
+Cutaneous T-cell lymphoma
+Cutaneous sinus of dental origin
+Cyclic neutropenia
+Cystic fibrosis
+Cystitis
+Cytomegalovirus
+Dacryoadenitis
+Deafblindness
+Deep vein thrombosis
+Dehydration
+Dementia
+Dementia with Lewy bodies
+Dental abscess
+Dental caries
+Depression
+Dermatitis herpetiformis
+Dermatitis herpetiformis
+Desmoplastic small round cell tumor
+Desquamative gingivitis
+Diabetes
+Diabetes insipidus
+Diarrhoea
+Diffuse large B-cell lymphoma
+Diphtheria
+Diphtheria
+Discoid eczema
+Diverticular disease and diverticulitis
+Dizziness
+Down's syndrome
+Drug-induced ulcer of the lip
+Dry mouth
+Duchenne muscular dystrophy
+Duodenal cancer
+Dwarfism
+Dysphagia
+Dystonia
+Earache
+Earwax build-up
+Ebola virus disease
+Ectopic pregnancy
+Ectropion
+Edwards' syndrome
+Endemic pemphigus
+Endometrial cancer
+Endometriosis
+Ependymoma
+Epidermization of the lip
+Epidermolysis bullosa acquisita
+Epilepsy
+Epiphora
+Epithelioid hemangioendothelioma
+Epulis
+Epulis fissuratum
+Eruptive lingual papillitis
+Erythroplakia
+Erythrotelangiectatic rosacea
+Escherichia coli
+Esophageal cancer
+Ewing sarcoma
+Ewing's sarcoma
+Excoriated acne
+Extragonadal germ cell tumor
+Extrahepatic bile duct cancer
+Eye cancer
+Familial Mediterranean fever
+Familial cold urticaria
+Febrile seizures
+Fever
+Fibroids
+Fibromyalgia
+Fifth disease
+Fissured tongue
+Flu
+Foetal alcohol syndrome
+Folate deficiency anaemia
+Follicular lymphoma
+Food poisoning
+Functional neurological disorder
+Fungal nail infection
+Gallbladder cancer
+Gallstones
+Ganglion cyst
+Gastric cancer
+Gastro-oesophageal reflux disease
+Gastroenteritis
+Gastrointestinal carcinoid tumor
+Gastrointestinal stromal tumor
+Genital herpes
+Genital symptoms
+Genital warts
+Geographic tongue
+Germ cell tumours
+Gestational Diabetes
+Gestational trophoblastic tumor
+Gigantism
+Gingival fibroma
+Gingival hypertrophy
+Glandular fever
+Glandular rosacea
+Glioblastoma
+Glioma
+Globus
+Gnathophyma
+Gonorrhea infection of the newborn
+Gonorrhoea
+Gout
+Gram-negative rosacea
+Granulomatous facial dermatitis
+Granulomatous perioral dermatitis
+Graves-Basedow disease
+Group B streptoccus infection
+Grover's disease
+Gum disease
+HIV
+Haemorrhoids
+Hairy cell leukemia
+Hairy leukoplakia
+Halogen acne
+Hand, foot and mouth disease
+Hashimoto's thyroiditis
+Hay fever
+Head and neck cancer
+Head lice and nits
+Headache
+Hearing loss
+Heart failure
+Hepatitis
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Hepatocellular cancer
+Hepatosplenic T-cell lymphoma
+Hiatus hernia
+Hidradenitis suppurativa
+High cholesterol
+Hives
+Hodgkin's lymphoma
+Huntington's disease
+Hyper-IgD syndrome
+Hyperglycaemia
+Hyperhidrosis
+Hypoglycaemia
+Hypoparathyroidism
+Hypopharyngeal cancer
+Idiopathic facial aseptic granuloma
+Idiopathic hypoglycemia
+Idiopathic pulmonary fibrosis
+IgA pemphigus
+Impetigo
+Indigestion
+Infantile acne
+Infectious mononucleosis
+Inflammatory breast cancer
+Influenza
+Ingrown toenail
+Inherited heart conditions
+Insomnia
+Insulinoma
+Intraepidermal neutrophilic IgA dermatosis
+Intraoral dental sinus
+Intravascular large B-cell lymphoma
+Intussusception
+Invasive lobular carcinoma
+Iron deficiency anaemia
+Irritable bowel syndrome
+Irritable hip
+Islet cell carcinoma
+Itching
+Japanese encephalitis virus
+Juvenile idiopathic arthritis
+Kaposi sarcoma
+Kaposi's sarcoma
+Keratoacanthoma
+Kidney cancer
+Kidney cancer
+Kidney infection
+Kidney stones
+Labyrinthitis
+Lactose intolerance
+Lagophthalmos
+Large granular lymphocytic leukemia
+Laryngeal cancer
+Laryngeal cancer
+Laryngitis
+Leg cramps
+Leiomyosarcoma
+Leishmaniasis
+Leprosy
+Leukemia
+Leukoplakia
+Leukoplakia with tylosis and esophageal carcinoma
+Lichen planus
+Linea alba
+Liposarcoma
+Liver cancer
+Liver disease
+Liver tumours
+Localized cicatricial pemphigoid
+Loiasis
+Loss of libido
+Lung cancer
+Lupoid rosacea
+Lupus
+Lupus miliaris disseminatus faciei
+Lyme disease
+Lymphoedema
+Lymphogranuloma venereum
+Lymphomatoid granulomatosis
+Lymphoplasmacytic lymphoma
+Majeed syndrome
+Major aphthous ulcer
+Malaria
+Malnutrition
+Mammary secretory carcinoma
+Mantle cell lymphoma
+Marginal zone B-cell lymphoma
+Mast cell leukemia
+Measles
+Meconium aspiration syndrome
+Median rhomboid glossitis
+Mediastinal large B cell lymphoma
+Medullary carcinoma
+Medulloblastoma
+Melanocytic oral lesion
+Melanoma
+Melkersson–Rosenthal syndrome
+Meniere's disease
+Meningitis
+Menopause
+Merkel cell carcinoma
+Mesothelioma
+Metapneumovirus infection
+Metophyma
+Middle ear infection
+Migraine
+Miscarriage
+Molluscum contagiosum
+Morsicatio buccarum
+Motor neurone disease
+Mouth cancer
+Mouth ulcer
+Muckle–Wells syndrome
+Mucosa-associated lymphoid tissue lymphoma
+Mucosal squamous cell carcinoma
+Mucous cyst of the oral mucos
+Multiple endocrine neoplasia syndrome
+Multiple myeloma
+Multiple myeloma/plasma cell neoplasm
+Multiple sclerosis
+Mumps
+Myasthenia gravis
+Mycosis fungoides
+Myelodysplastic syndromes
+Myxosarcoma
+Nagayama's spots
+Nasal and sinus cancer
+Nasopharyngeal carcinoma
+Necrotizing enterocolitis
+Neonatal acne
+Nephrotic syndrome
+Neuroblastoma
+Neuroendocrine tumour
+Nodal marginal zone B cell lymphoma
+Non-Hodgkin lymphoma
+Non-alcoholic fatty liver disease
+Non-melanoma
+Non-small cell lung carcinoma
+Norovirus
+Nosebleed
+Obsessive compulsive disorder
+Obstructive sleep apnoea
+Occupational acne
+Ocular rosacea
+Oesophageal cancer
+Oil acne
+Oligodendroglioma
+Onchocerciasis
+Optic nerve glioma
+Oral Crohn's disease
+Oral cancer
+Oral florid papillomatosis
+Oral melanosis
+Oral thrush
+Oropharyngeal cancer
+Osgood-Schlatter disease
+Osseous choristoma of the tongue
+Osteitis deformans
+Osteogenesis Imperfecta
+Osteomalacia
+Osteoporosis
+Osteosarcoma
+Otitis externa
+Otophyma
+Ovarian cancer
+Overactive thyroid
+Paget's disease of the nipple
+Pancreatic cancer
+Panic disorder
+Papulopustular rosacea
+Parainfluenza infection
+Paraneoplastic pemphigus
+Parathyroid cancer
+Parkinson's disease
+Patau's syndrome
+Pelvic inflammatory disease
+Pelvic organ prolapse
+Pemphigoid nodularis
+Pemphigus erythematosus
+Pemphigus foliaceus
+Pemphigus herpetiformis
+Pemphigus vegetans
+Pemphigus vulgaris
+Perioral dermatitis
+Periorbital dermatitis
+Periorificial dermatitis
+Peripheral ameloblastoma
+Peripheral neuropathy
+Persistent edema of rosacea
+Personality disorder
+Pertussis
+Pharyngeal cancer
+Pheochromocytoma
+Phthiriasis
+Phyllodes tumor
+Phymatous rosacea
+Pilocytic astrocytoma
+Pineal astrocytoma
+Pituitary adenoma
+Pituitary adenomas
+Plasma cell cheilitis
+Plasmablastic lymphoma
+Plasmoacanthoma
+Pleurisy
+Pleuropulmonary blastoma
+Pneumonia
+Pneumonia
+Polio
+Poliomyelitis
+Polymyalgia rheumatica
+Pomade acne
+Post-polio syndrome
+Post-traumatic stress disorder
+Postnatal depression
+Precursor B lymphoblastic leukemia
+Prenatal listeria
+Pressure ulcers
+Primary central nervous system lymphoma
+Primary cutaneous follicular lymphoma
+Primary cutaneous immunocytoma
+Primary effusion lymphoma
+Primary hyperparathyroidism
+Primitive neuroectodermal tumor
+Prolactinoma
+Proliferative verrucous leukoplakia
+Prostate cancer
+Pseudohypoparathyroidism
+Psoriasis
+Psoriatic arthritis
+Psychosis
+Ptosis
+Pyoderma faciale
+Pyogenic granuloma
+Pyostomatitis vegetans
+Q fever
+Quintan fever
+Raynaud's phenomenon
+Reactive arthritis
+Recurrent aphthous stomatitis
+Renal cell carcinoma
+Respiratory Syncytial Virus
+Respiratory distress syndrome
+Restless legs syndrome
+Retinitis
+Retinoblastoma
+Retinochoroiditis
+Rhabdomyosarcoma
+Rheumatic fever
+Rheumatoid arthritis
+Rhinophyma
+Rhinovirus
+Rickets
+Ringworm
+Rosacea
+Rosacea conglobata
+Roseola
+Rubella
+Salivary gland cancer
+Scabies
+Scarlet fever
+Schizophrenia
+Scoliosis
+Sebaceous carcinoma
+Secondary hyperparathyroidism
+Sepsis
+Septic shock
+Sever's disease
+Shingles
+Shortness of breath
+Sickle cell disease
+Sinusitis
+Sjogren's syndrome
+Skin cancer
+Slapped cheek syndrome
+Small cell lung cancer
+Small intestine cancer
+Smooth tongue
+Soft tissue sarcomas
+Sore throat
+Splenic marginal zone lymphoma
+Squamous cell carcinoma
+Squamous cell skin cancer
+Steroid rosacea
+Stillbirth
+Stomach ache and abdominal pain
+Stomach cancer
+Stomach ulcer
+Stomatitis nicotina
+Streptococcus A
+Stroke
+Stye
+Sudden infant death syndrome
+Sunburn
+Swollen glands
+Synovitis–acne–pustulosis–hyperostosis–osteomyelitis syndrome
+Syphilis
+Sézary syndrome
+T-cell prolymphocytic leukemia
+Taws
+Tay–Sachs disease
+Tertiary hyperparathyroidism
+Tetanus
+Tetanus
+Thirst
+Threadworms
+Thrush
+Thyroid cancer
+Thyroid hormone resistance
+Tinnitus
+Tonsillitis
+Tooth decay
+Toothache
+Torus palatinus
+Toxic multinodular goitre
+Transient ischaemic attack
+Transverse myelitis
+Trichomonas infection
+Trigeminal neuralgia
+Trumpeter's wart
+Tuberculosis
+Tubular carcinoma
+Type 1 diabetes
+Type 2 diabetes
+Ulcerative colitis
+Underactive thyroid
+Ureaplasma urealyticum infection
+Urethral cancer
+Urinary incontinence
+Urinary tract infections
+Urticaria
+Uterine sarcoma
+Uveal melanoma
+Variant Creutzfeldt-Jakob disease (vCJD)
+Varicella
+Varicose eczema
+Venous leg ulcer
+Vertigo
+Vesicular pemphigoid
+Vestibular papillomatosis
+Volvulus
+Warts and verrucas
+West Nile virus infection
+White sponge nevus
+Whooping cough
+Wilms' tumor
+Womb cancer
+Xanthelasma
+Xerophthalmia
+Yellow fever
+Yersiniosis
+Zika virus disease
+Zoonosis
+Zoster
